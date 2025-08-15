@@ -1,0 +1,37 @@
+{
+  "puntaje_claridad": 9,
+  "puntaje_impacto": 4,
+  "habilidades_clave_identificadas": [
+    "Python",
+    "Django / Flask",
+    "JavaScript (React.js)",
+    "SQL (PostgreSQL, MySQL)",
+    "Docker",
+    "Git",
+    "Desarrollo Full-Stack"
+  ],
+  "analisis_verbos_accion": "El uso de verbos de acción es uno de los puntos más débiles del CV. Frases como 'Responsable del desarrollo', 'Involucrada en el mantenimiento' o 'Fui parte del equipo' son pasivas y describen responsabilidades en lugar de logros. Reemplazarlos por verbos fuertes y directos como 'Desarrollé', 'Implementé', 'Optimicé' o 'Colaboré activamente en' aumentaría drásticamente la percepción de proactividad y propiedad sobre las tareas.",
+  "analisis_cuantificacion": "El CV carece completamente de cuantificación. No hay métricas, números o datos que respalden el impacto del trabajo realizado. Por ejemplo, no se especifica cuántas funcionalidades se desarrollaron, en qué porcentaje se mejoró el rendimiento con la optimización de consultas, o cuál fue el impacto de la migración a microservicios. La ausencia de métricas hace que los logros parezcan genéricos y dificulta que un reclutador evalúe la magnitud de sus contribuciones.",
+  "sugerencias_concretas_mejora": [
+    {
+      "sugerencia": "Transformar responsabilidades en logros cuantificables.",
+      "ejemplo_antes": "• Trabajé en la optimización de consultas a la base de datos para mejorar el rendimiento.",
+      "ejemplo_despues": "• Optimicé consultas críticas en PostgreSQL, reduciendo el tiempo de respuesta del dashboard principal en un 40% y mejorando la experiencia del usuario."
+    },
+    {
+      "sugerencia": "Reemplazar verbos pasivos por verbos de acción fuertes y directos.",
+      "ejemplo_antes": "• Responsable del desarrollo de nuevas funcionalidades para la plataforma principal de la empresa.",
+      "ejemplo_despues": "• Lideré el desarrollo de 5+ funcionalidades clave para la plataforma principal, desde la conceptualización con el equipo de producto hasta el despliegue final."
+    },
+    {
+      "sugerencia": "Añadir contexto y escala al impacto del trabajo.",
+      "ejemplo_antes": "• Fui parte del equipo que migró una aplicación monolítica a una arquitectura de microservicios.",
+      "ejemplo_despues": "• Contribuí a la migración de una aplicación monolítica a una arquitectura de microservicios, refactorizando módulos de autenticación y gestión de usuarios, lo que permitió una mayor escalabilidad y velocidad en los despliegues."
+    },
+    {
+      "sugerencia": "Enriquecer la descripción de los proyectos personales con el stack tecnológico utilizado.",
+      "ejemplo_antes": "• Creé un blog completo con funcionalidades de creación de posts, comentarios y autenticación de usuarios.",
+      "ejemplo_despues": "• Desarrollé e implementé un blog personal full-stack utilizando Django, PostgreSQL y React.js, desplegado en AWS S3/EC2."
+    }
+  ]
+}
