@@ -19,35 +19,13 @@ Una herramienta de línea de comandos que utiliza un Modelo de Lenguaje Grande (
 - **PyMuPDF:** Extracción de texto de PDF.
 - **Python-Dotenv:** Gestión de variables de entorno.
 
-## Instalación y Configuración
-
-**1. Clonar el repositorio**```bash
-git clone https://github.com/tu-usuario/cv-analyzer.git
-cd cv-analyzer
-```
-
-**2. Crear y activar un entorno virtual**
-```bash
-# Para macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
-
-# Para Windows
-python -m venv venv
-.\venv\Scripts\activate
-```
-
-**3. Instala las dependencias**```bash
-pip install -r requirements.txt
-```
-
-**4. Configura las Variables de Entorno**
-Crear un archivo `.env` en la raíz del proyecto y añadir la clave de API de Google:
-```
-GOOGLE_API_KEY="tu_clave_de_api_aqui"
-```
+---
 
 ## Uso
+
+Crear un archivo `.env` en la raíz del proyecto y añadir la clave de API de Google:
+
+GOOGLE_API_KEY="tu_clave_de_api_aqui"
 
 El script se ejecuta desde el directorio raíz del proyecto.
 
